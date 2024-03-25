@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi!👋 I am Nathan Tao, a sophomore at Scarsdale High School. My goals are to:</p>
+<p align="left">Hi there!👋 I am Nathan Tao, a sophomore at Scarsdale High School. My goals are to:</p>
 <ul>
   <li>🔬 Contribute to actual research over this summer (that would be cool)</li>
   <li>⏫ Launch Badavas by early June</li>
@@ -20,12 +20,11 @@
 
 ###
 
-<a href="https://github.com/jstrieb/github-stats">
 <div align="center">
   <img src="https://raw.githubusercontent.com/natnuo/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/natnuo/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only" />
 </div>
-</a>
+<p align="center"><sup>These statistics (made using <a href="https://github.com/jstrieb/github-stats">jstrieb's GitHub Statistics Visualization</a>) represent my primary coding projects during 10th grade only (I used GitHub infrequently before 10th grade).</sup></p>
 
 ###
 
@@ -70,6 +69,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/scikit-learn-logo.png" height="40" alt="scikit-learn logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -79,6 +80,10 @@
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/roblox-studio-logo.png" height="40" alt="roblox studio logo"  />
 </div>
 
 ###
