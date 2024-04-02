@@ -4,8 +4,8 @@
 
 <p align="left">Hi there!👋 I am Nathan Tao, a sophomore at Scarsdale High School. My goals are to:</p>
 <ul>
-  <li>🔬 Contribute to actual research over this summer (that would be cool)</li>
   <li>⏫ Launch Badavas by early June</li>
+  <li>🔬 Contribute to actual research by the end of 2024 (that would be cool)</li>
   <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to worlds in 2024-2025 Watergame</li>
   <li>⭐ Make a positive impact on other people</li>
 </ul>
@@ -106,3 +106,16 @@
   </tbody>
 </table>
 <sup>Reload to see if what I am listening to changes!</sup>
+<br />
+<br />
+
+<table>
+  <head><tr><th>✨ Top Tracks</tr></th></thead>
+  <tbody>
+    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="https://natnuo-spotify-data-bcf8ecc1a8d6.herokuapp.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/1" alt="Server error..." height="75px"  /></a></td></tr>
+    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="https://natnuo-spotify-data-bcf8ecc1a8d6.herokuapp.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/2" alt="Server error..." height="75px"  /></a></td></tr>
+    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="https://natnuo-spotify-data-bcf8ecc1a8d6.herokuapp.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/3" alt="Server error..." height="75px"  /></a></td></tr>
+    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="https://natnuo-spotify-data-bcf8ecc1a8d6.herokuapp.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/4" alt="Server error..." height="75px"  /></a></td></tr>
+    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="https://natnuo-spotify-data-bcf8ecc1a8d6.herokuapp.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/5" alt="Server error..." height="75px"  /></a></td></tr>
+  </tbody>
+</table>
