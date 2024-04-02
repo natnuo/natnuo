@@ -94,6 +94,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo"  />
 </div>
 
 ###
