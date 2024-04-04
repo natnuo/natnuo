@@ -28,6 +28,14 @@
 
 ###
 
+<div align="center">
+  <img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/fc89117b-07dd-46d2-9125-5e5f9cbd92f5.svg" width="500"  />
+  <img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/9702eee7-8625-4393-8240-f21917ea2f14.svg" width="500"  />
+</div>
+<p align="center"><sup>These statistics (made using <a href="wakatime.com">WakaTime</a>) only record time when I have recently typed. If I am inactive, WakaTime does not record me as "coding".</sup></p>
+
+###
+
 <h3 align="left">Skills</h3>
 
 ###
