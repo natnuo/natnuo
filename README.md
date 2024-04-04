@@ -44,7 +44,7 @@
 
 ###
 
-<h4 align="left">Fluent (I can code major projects with these without referencing outside resources)</h4>
+<h4 align="left">Fluent (I can code major projects using these without referencing outside resources)</h4>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h4 align="left">Experienced (I have coded projects with these)</h4>
+<h4 align="left">Experienced (I have coded projects using these)</h4>
 
 ###
 
@@ -96,7 +96,7 @@
 
 ###
 
-<h4 align="left">Learning (I will understand code with these)</h4>
+<h4 align="left">Learning (I will understand these)</h4>
 
 ###
 
