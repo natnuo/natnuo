@@ -121,3 +121,4 @@
     <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="https://natnuo-spotify-data-bcf8ecc1a8d6.herokuapp.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/5" alt="Server error..." height="75px"  /></a></td></tr>
   </tbody>
 </table>
+<sup>If you see a message saying "Server Error", first click <a href="https://natnuo-spotify-data-bcf8ecc1a8d6.herokuapp.com/currently-playing" target="_blank">here</a>, and then reload my GitHub profile page.</sup>
