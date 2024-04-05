@@ -108,25 +108,3 @@
 
 ###
 
-<hr />
-<table>
-  <head><tr><th>🎧 Now Listening To</tr></th></thead>
-  <tbody>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing" alt="Not currently playing..." height="75px"  /></a></td></tr>
-  </tbody>
-</table>
-<sup>Reload to see if what I am listening to changes!</sup>
-<br />
-<br />
-
-<table>
-  <head><tr><th>✨ Top Tracks</tr></th></thead>
-  <tbody>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/1" alt="Server error..." height="75px"  /></a></td></tr>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/2" alt="Server error..." height="75px"  /></a></td></tr>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/3" alt="Server error..." height="75px"  /></a></td></tr>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/4" alt="Server error..." height="75px"  /></a></td></tr>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/5" alt="Server error..." height="75px"  /></a></td></tr>
-  </tbody>
-</table>
-<sup>If you see a message saying "Server Error", first click <a href="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing" target="_blank">here</a>, then reload my GitHub profile page.</sup>
