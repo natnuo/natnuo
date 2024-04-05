@@ -23,14 +23,32 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/natnuo/github-stats-copy/master/generated/overview.svg#gh-dark-mode-only" />
   <img src="https://raw.githubusercontent.com/natnuo/github-stats-copy/master/generated/languages.svg#gh-dark-mode-only" />
+  <img src="https://raw.githubusercontent.com/natnuo/github-stats-copy/master/generated/overview.svg#gh-light-mode-only" />
+  <img src="https://raw.githubusercontent.com/natnuo/github-stats-copy/master/generated/languages.svg#gh-light-mode-only" />
 </div>
 <p align="center"><sup>These statistics (made using <a href="https://github.com/jstrieb/github-stats">jstrieb's GitHub Statistics Visualization</a>) represent my primary coding projects during 10th grade only (I used GitHub infrequently before 10th grade).</sup></p>
 
 ###
 
-<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/fc89117b-07dd-46d2-9125-5e5f9cbd92f5.svg" width="700"  /></a></p>
-<p align="center"><sup>I believe the above diagram (made using <a href="https://wakatime.com">WakaTime</a>) represents the time I spent coding each language in the last seven days, which is not identical to the characters I coded in each language throughout the last seven days.</sup></p>
-<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/9702eee7-8625-4393-8240-f21917ea2f14.svg" width="700"  /></a></p>
+<p align="center">
+  <a href="https://wakatime.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/fc89117b-07dd-46d2-9125-5e5f9cbd92f5.svg" width="700"  />
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/2cca20fb-c1b3-4343-85ad-a04fd0aa0532.svg" width="700"  />
+      <img alt="" src=""  />
+    </picture>
+  </a>
+</p>
+<p align="center"><sup>The above diagram (made using <a href="https://wakatime.com">WakaTime</a>) represents the time I spent coding each language in the last seven days, which is not identical to the characters I coded in each language throughout the last seven days.</sup></p>
+<p align="center">
+  <a href="https://wakatime.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/9702eee7-8625-4393-8240-f21917ea2f14.svg" width="700"  />
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/b37a9b53-7fc2-4f30-8db5-674b3cdb2e97.svg" width="700"  />
+      <img alt="" src=""  />
+    </picture>
+  </a>
+</p>
 <p align="center"><sup>These statistics (made using <a href="https://wakatime.com">WakaTime</a>) only record time when I have recently typed. The graph above represents the time I was actively coding (and not idle).</sup></p>
 
 ###
@@ -111,7 +129,17 @@
 <table>
   <head><tr><th>🎧 Now Listening To</tr></th></thead>
   <tbody>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing" alt="Not currently playing..." height="75px"  /></a></td></tr>
+    <tr>
+      <td>
+        <a href="https://github.com/natnuo/spotify-data">
+          <picture height="75px">
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=light" height="75px"  />
+            <img alt="Not currently playing..." src=""  />
+          </picture>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 <sup>Reload to see if what I am listening to changes!</sup>
@@ -121,11 +149,61 @@
 <table>
   <head><tr><th>✨ Top Tracks</tr></th></thead>
   <tbody>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/1" alt="Server error..." height="75px"  /></a></td></tr>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/2" alt="Server error..." height="75px"  /></a></td></tr>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/3" alt="Server error..." height="75px"  /></a></td></tr>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/4" alt="Server error..." height="75px"  /></a></td></tr>
-    <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/5" alt="Server error..." height="75px"  /></a></td></tr>
+    <tr>
+      <td>
+        <a href="https://github.com/natnuo/spotify-data">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/1?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/1?theme=light" height="75px"  />
+            <img alt="Server error..." src=""  />
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/natnuo/spotify-data">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/2?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/2?theme=light" height="75px"  />
+            <img alt="Server error..." src=""  />
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/natnuo/spotify-data">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/3?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/3?theme=light" height="75px"  />
+            <img alt="Server error..." src=""  />
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/natnuo/spotify-data">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/4?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/4?theme=light" height="75px"  />
+            <img alt="Server error..." src=""  />
+          </picture>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/natnuo/spotify-data">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/5?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/5?theme=light" height="75px"  />
+            <img alt="Server error..." src=""  />
+          </picture>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
-<sup>I custom-made this status display, but I was inspired by the profile readme of <a href="https://github.com/natemoo-re/natemoo-re">@natemoo-re</a>.</sup>
+<sup>I <a href="https://github.com/natnuo/spotify-status">custom-made</a> this Spotify status display, but I was inspired by the profile readme of <a href="https://github.com/natemoo-re/natemoo-re">@natemoo-re</a>.</sup>
