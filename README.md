@@ -1,4 +1,4 @@
-<h1 align="center">Full-stack developer who just wants to make cool stuff. 😊</h1>
+<h1 align="center">Full-stack developer who wants to make cool stuff. 😊</h1>
 
 ###
 
@@ -29,10 +29,10 @@
 ###
 
 <div align="center">
-  <img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/fc89117b-07dd-46d2-9125-5e5f9cbd92f5.svg" width="700"  />
-  <img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/9702eee7-8625-4393-8240-f21917ea2f14.svg" width="700"  />
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/fc89117b-07dd-46d2-9125-5e5f9cbd92f5.svg" width="700"  /></a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/9702eee7-8625-4393-8240-f21917ea2f14.svg" width="700"  /></a>
 </div>
-<p align="center"><sup>These statistics (made using <a href="wakatime.com">WakaTime</a>) only record time when I have recently typed. If I am inactive, WakaTime does not record me as "coding".</sup></p>
+<p align="center"><sup>These statistics (made using <a href="https://wakatime.com">WakaTime</a>) only record time when I have recently typed—the graph above represents the time I was actively coding (and not idle).</sup></p>
 
 ###
 
@@ -129,4 +129,4 @@
     <tr><td><a href="https://github.com/natnuo/spotify-data"><img src="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/5" alt="Server error..." height="75px"  /></a></td></tr>
   </tbody>
 </table>
-<sup>If you see a message saying "Server Error", first click <a href="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing" target="_blank">here</a>, then reload my GitHub profile page.</sup>
+<sup>I custom-made this status display, but I was inspired by the profile readme of <a href="https://github.com/natemoo-re/natemoo-re">@natemoo-re</a>.</sup>
