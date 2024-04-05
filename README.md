@@ -28,10 +28,9 @@
 
 ###
 
-<div align="center">
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/fc89117b-07dd-46d2-9125-5e5f9cbd92f5.svg" width="700"  /></a>
-  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/9702eee7-8625-4393-8240-f21917ea2f14.svg" width="700"  /></a>
-</div>
+<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/fc89117b-07dd-46d2-9125-5e5f9cbd92f5.svg" width="700"  /></a></p>
+<p align="center"><sup>I believe the above diagram (made using <a href="https://wakatime.com">WakaTime</a>) represents the time I spent coding each language in the last seven days, which is not identical to the characters I coded in each language throughout the last seven days.</sup></p>
+<p align="center"><a href="https://wakatime.com"><img src="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/9702eee7-8625-4393-8240-f21917ea2f14.svg" width="700"  /></a></p>
 <p align="center"><sup>These statistics (made using <a href="https://wakatime.com">WakaTime</a>) only record time when I have recently typed. The graph above represents the time I was actively coding (and not idle).</sup></p>
 
 ###
