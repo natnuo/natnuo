@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am a co-founder of Badavas, the web-design lead of NurturingNotes, and one of two programming leads for <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a>. ≥ 60% of my commits are in private repositories, but feel free to <a href="mailto:natnu212@gmail.com">email me</a> about these projects; I would love to talk to you!</p>
+<p align="left">I am a co-founder of Badavas (200+ hrs), the web-design lead of NurturingNotes (20+ hrs), and one of two programming leads for <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> (∞+ hrs). I also have a bunch of smaller side projects! ≥ 60% of my commits are in private repositories, but feel free to <a href="mailto:natnu212@gmail.com">email me</a> about these projects; I would love to talk to you!</p>
 
 ###
 
@@ -40,6 +40,11 @@
   </a>
 </p>
 <p align="center"><sup>The above diagram (made using <a href="https://wakatime.com">WakaTime</a>) represents the time I spent coding each language in the last seven days, which is not identical to the characters I coded in each language throughout the last seven days.</sup></p>
+
+<p align="center">See a lot of C++? I have been learning <a href="https://codeforces.com/profile/natnuo">competitive programming</a> in the past few weeks (might be slightly addicted to CodeForces). Also, I read editorials after about ~15 minutes instead of fully solving problems, so my CodeForces submission history does not reflect the time I spent learning.</p>
+<br />
+<br />
+
 <p align="center">
   <a href="https://wakatime.com">
     <picture>
