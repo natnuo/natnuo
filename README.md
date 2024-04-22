@@ -211,7 +211,7 @@
     </tr>
   </tbody>
 </table>
-<sup>I <a href="https://github.com/natnuo/spotify-status">custom-made</a> this Spotify status display, but I was inspired by the profile readme of <a href="https://github.com/natemoo-re/natemoo-re">@natemoo-re</a>.<br /><b>If any row of the above display does not render, try reloading—GitHub markdown has a few quirks...</b></sup>
+<sup><b>If any row of the above display does not render, try reloading</b>—GitHub markdown has a few quirks...<br />I <a href="https://github.com/natnuo/spotify-status">custom-made</a> this Spotify status display, but I was inspired by the profile readme of <a href="https://github.com/natemoo-re/natemoo-re">@natemoo-re</a>.</sup>
 
 ###
 
