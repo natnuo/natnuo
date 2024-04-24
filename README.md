@@ -50,7 +50,7 @@
     </picture>
   </a>
 </p>
-<p align="center"><sup>These statistics (made using <a href="https://wakatime.com">WakaTime</a>) only record time when I have recently typed. The graph above represents the time I was actively coding (and not idle).</sup></p>
+<p align="center"><sup>These statistics (made using <a href="https://wakatime.com">WakaTime</a>) only record time when I have recently typed. The graph above represents the time I was actively coding (and not idle). Also note that I have no idea what time zone this graph is for (I programmed neither the creation nor updating of the graph). This graph also may be up to one day delayed.</sup></p>
 
 ###
 
