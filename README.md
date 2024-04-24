@@ -26,7 +26,7 @@
   <img src="https://raw.githubusercontent.com/natnuo/github-stats-copy/master/generated/overview.svg#gh-light-mode-only" />
   <img src="https://raw.githubusercontent.com/natnuo/github-stats-copy/master/generated/languages.svg#gh-light-mode-only" />
 </div>
-<p align="center"><sup>These statistics (made using <a href="https://github.com/jstrieb/github-stats">jstrieb's GitHub Statistics Visualization</a>) represent my primary coding projects during 10th grade only (I used GitHub infrequently before 10th grade).</sup></p>
+<p align="center"><sup>These statistics (made using <a href="https://github.com/jstrieb/github-stats">jstrieb's GitHub Statistics Visualization</a>) represent my primary coding projects during 10th grade only (I used GitHub infrequently before 10th grade). Not all of my code goes on GitHub, so (maybe) more representative, time-based graphs are below.</sup></p>
 
 ###
 
