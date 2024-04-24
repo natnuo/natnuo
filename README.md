@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I am a co-founder of Badavas (200+ hrs), the web-design lead of NurturingNotes (20+ hrs), and one of two programming leads for <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> (∞+ hrs). I also have a bunch of smaller side projects! ≥ 60% of my commits are in private repositories, but feel free to <a href="mailto:natnu212@gmail.com">email me</a> about these projects; I would love to talk to you!</p>
+<p align="left">I am a co-founder of Badavas, the web-design lead of NurturingNotes, and one of two programming leads for <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a>. I also have a bunch of smaller side projects! ≥ 60% of my commits are in private repositories, but feel free to <a href="mailto:natnu212@gmail.com">email me</a> about these projects; I would love to talk to you!</p>
 
 ###
 
