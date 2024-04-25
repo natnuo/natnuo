@@ -84,7 +84,7 @@
 
 ###
 
-<h4 align="left">Experienced (I have coded projects using these)</h4>
+<h4 align="left">Experienced (I have coded projects using these, and I feel comfortable using these)</h4>
 
 ###
 
