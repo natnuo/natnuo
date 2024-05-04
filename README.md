@@ -207,7 +207,7 @@
     </tr>
   </tbody>
 </table>
-<sup>If any row of the above display does not render or repeats, <b><ins>try <a href="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=light">clicking here</a>, and then reloading</ins></b>—GitHub markdown has a few quirks...<br />I <a href="https://github.com/natnuo/spotify-status">custom-made</a> this Spotify status display, but I was inspired by the profile readme of <a href="https://github.com/natemoo-re/natemoo-re">@natemoo-re</a>.</sup>
+<sup>If any row of the above display does not render or repeats, <b>try <a href="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=light">clicking here</a>, and then <ins>reloading</ins></b>—GitHub markdown has a few quirks...<br />I <a href="https://github.com/natnuo/spotify-status">custom-made</a> this Spotify status display, but I was inspired by the profile readme of <a href="https://github.com/natemoo-re/natemoo-re">@natemoo-re</a>.</sup>
 
 ###
 
