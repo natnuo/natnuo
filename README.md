@@ -7,7 +7,7 @@
   <li>⏫ Launch Badavas by early June</li>
   <li>🔬 Contribute to actual research by the end of 2024 (that would be cool)</li>
   <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to worlds in 2024-2025 Watergame</li>
-  <li>⭐ Make a positive impact on other people</li>
+  <li>⭐ Spread the opportunity to allow all people's talents to grow!</li>
 </ul>
 
 ###
