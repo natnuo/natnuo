@@ -62,7 +62,7 @@
 
 ###
 
-<h4 align="left">Fluent (I can code major projects using these without referencing outside resources)</h4>
+<h4 align="left">Fluent (I can code major projects using these while referencing few/no outside resources)</h4>
 
 ###
 
@@ -84,24 +84,36 @@
 
 ###
 
-<h4 align="left">Experienced (I have coded projects using these, and I feel comfortable using these)</h4>
+<h4 align="left">Experienced (I have coded projects using these, or I am actively coding in these, and I feel comfortable using these)</h4>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/scikit-learn-logo.png" height="40" alt="scikit-learn logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+</div>
+
+<sub>Note: My knowledge of C++ is associated with competitive programming, not practical project design, which is why I classify C++ as "Experienced" instead of "Fluent".</sub>
+
+###
+
+<h4 align="left">Ex-Experienced (I have coded projects using these, and I can quickly re-learn them)</h4>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/scikit-learn-logo.png" height="40" alt="scikit-learn logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
   <img width="12" />
@@ -119,8 +131,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo"  />
 </div>
 
