@@ -96,8 +96,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" />
   <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/scikit-learn-logo.png" height="40" alt="scikit-learn logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
@@ -117,6 +115,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
 </div>
 
 ###
