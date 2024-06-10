@@ -126,23 +126,25 @@
 ###
 
 <hr />
-<table>
-  <head><tr><th>🎧 Listening To Now (RIGHT NOW!)</tr></th></thead>
-  <tbody>
-    <tr>
-      <td>
-        <a href="https://github.com/natnuo/spotify-data">
-          <picture height="75px">
-            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=dark" height="75px"  />
-            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=light" height="75px"  />
-            <img alt="Not currently playing..." src=""  />
-          </picture>
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<sup>Reload to see if what I am listening to changes!</sup>
+  <div align="center">
+  <table>
+    <head><tr><th>🎧 Listening To Right Now (RIGHT NOW!)</tr></th></thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/natnuo/spotify-data">
+            <picture height="75px">
+              <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=dark" height="75px"  />
+              <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=light" height="75px"  />
+              <img alt="Not currently playing..." src=""  />
+            </picture>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <sup>Reload to see if what I am listening to changes!</sup>
+</div>
     
 ###
 
