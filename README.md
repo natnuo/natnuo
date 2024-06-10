@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there! 👋 I am Nathan Tao, a sophomore at Scarsdale High School. My goals are to:</p>
+<p align="left">👋 Hi there! I am Nathan Tao, a sophomore at Scarsdale High School. My goals are to:</p>
 <ul>
   <li>⏫ Launch Badavas by early June</li>
   <li>🔬 Contribute to actual research by the end of 2024 (that would be cool)</li>
