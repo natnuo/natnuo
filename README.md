@@ -147,7 +147,7 @@
 <br />
 
 <table>
-  <head><tr><th>✨ Top Tracks</tr></th></thead>
+  <head><tr><th>✨ Top Tracks</th><th>💯 Pretest Playlist</th></tr></thead>
   <tbody>
     <tr>
       <td>
