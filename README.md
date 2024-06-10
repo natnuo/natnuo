@@ -127,7 +127,7 @@
 
 <hr />
 <table>
-  <head><tr><th>🎧 Now Listening To (RIGHT NOW!)</tr></th></thead>
+  <head><tr><th>🎧 Listening To Now (RIGHT NOW!)</tr></th></thead>
   <tbody>
     <tr>
       <td>
