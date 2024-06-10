@@ -164,8 +164,8 @@
       <td>
         <a href="https://github.com/natnuo/spotify-data">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/2?theme=dark" height="75px"  />
-            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/2?theme=light" height="75px"  />
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/710ujhc3yot5EfMNWB7sDK/2?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/710ujhc3yot5EfMNWB7sDK/2?theme=light" height="75px"  />
             <img alt="Server error..." src=""  />
           </picture>
         </a>
@@ -175,8 +175,8 @@
       <td>
         <a href="https://github.com/natnuo/spotify-data">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/3?theme=dark" height="75px"  />
-            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/3?theme=light" height="75px"  />
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/710ujhc3yot5EfMNWB7sDK/3?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/710ujhc3yot5EfMNWB7sDK/3?theme=light" height="75px"  />
             <img alt="Server error..." src=""  />
           </picture>
         </a>
@@ -186,8 +186,8 @@
       <td>
         <a href="https://github.com/natnuo/spotify-data">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/4?theme=dark" height="75px"  />
-            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/4?theme=light" height="75px"  />
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/710ujhc3yot5EfMNWB7sDK/4?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/710ujhc3yot5EfMNWB7sDK/4?theme=light" height="75px"  />
             <img alt="Server error..." src=""  />
           </picture>
         </a>
@@ -197,8 +197,8 @@
       <td>
         <a href="https://github.com/natnuo/spotify-data">
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/5?theme=dark" height="75px"  />
-            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/3pAwxjIyYGDpBn1hoJ64GX/5?theme=light" height="75px"  />
+            <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/710ujhc3yot5EfMNWB7sDK/5?theme=dark" height="75px"  />
+            <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/playlist/710ujhc3yot5EfMNWB7sDK/5?theme=light" height="75px"  />
             <img alt="Server error..." src=""  />
           </picture>
         </a>
