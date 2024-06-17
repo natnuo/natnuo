@@ -38,6 +38,16 @@
   </a>
 </p>
 <p align="center"><sup>The above diagram (made using <a href="https://wakatime.com">WakaTime</a>) represents the time I spent coding each language in the last seven days, which is not identical to the characters I coded in each language throughout the last seven days.</sup></p>
+<p align="center">
+  <a href="https://wakatime.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/9702eee7-8625-4393-8240-f21917ea2f14.svg" width="700"  />
+      <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@018e778f-e6e0-443a-8f7f-3586ce0aa559/b37a9b53-7fc2-4f30-8db5-674b3cdb2e97.svg" width="700"  />
+      <img alt="" src=""  />
+    </picture>
+  </a>
+</p>
+<p align="center"><sup>These statistics (made using <a href="https://wakatime.com">WakaTime</a>) only record time when I have recently typed. The graph above represents the time I was actively coding (and not idle).</sup></p>
 
 ###
 
