@@ -125,12 +125,12 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
+<!--   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  /> -->
   <img width="12" />
   <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/scikit-learn-logo.png" height="40" alt="scikit-learn logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  />
+<!--   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
 </div>
