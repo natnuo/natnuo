@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">My coding journey started in 6th grade when I was building Roblox Games over COVID. I have not stopped since.</p>
+<p align="left">I started my coding journey in 6th grade, publishing Roblox games during COVID, and I haven't stopped since.</p>
 
 ###
 
-<p align="left">I am a co-founder of Badavas, the web-design lead of NurturingNotes, and one of two programming directors for <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a>. I also have a bunch of smaller side projects! ≥ 60% of my commits are in private repositories, but feel free to <a href="mailto:natnu212@gmail.com">email me</a> about these projects; I would love to talk to you!</p>
+<p align="left">I'm the programmer and a co-founder of Badavas and a programming director for <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a>. I also have a bunch of side projects! ≥ 60% of my commits are in private repositories, but feel free to <a href="mailto:natnu212@gmail.com">email me</a> about these projects; I would love to talk to you!</p>
 
 ###
 
