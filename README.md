@@ -93,6 +93,8 @@
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  />
 </div>
 
 <sub>Note: My knowledge of C++ is associated with competitive programming, not practical project design, which is why I classify C++ as "Experienced" instead of "Fluent".</sub>
