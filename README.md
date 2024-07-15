@@ -92,16 +92,16 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
 <sub>Note: My knowledge of C++ is associated with competitive programming, not practical project design, which is why I classify C++ as "Experienced" instead of "Fluent".</sub>
 
 ###
 
-<h4 align="left">Experienced (I have coded projects using these, and I can quickly re-learn them)</h4>
+<h4 align="left">Experienced (I have created projects using these, and I can quickly re-learn them)</h4>
 
 ###
 
@@ -113,6 +113,8 @@
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/roblox-studio-logo.png" height="40" alt="roblox studio logo"  />
   <img width="12" />
