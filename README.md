@@ -85,7 +85,7 @@
 
 ###
 
-<h4 align="left">Experienced (I have coded projects using these, or I am actively coding in these, and I feel comfortable using these)</h4>
+<h4 align="left">Knowledgeable (I have coded projects using these, or I am actively coding in these, and I feel comfortable using these)</h4>
 
 ###
 
@@ -101,7 +101,7 @@
 
 ###
 
-<h4 align="left">Ex-Experienced (I have coded projects using these, and I can quickly re-learn them)</h4>
+<h4 align="left">Experienced (I have coded projects using these, and I can quickly re-learn them)</h4>
 
 ###
 
