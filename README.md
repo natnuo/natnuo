@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm the programmer and a co-founder of Badavas and a programming director for <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a>. I also have a bunch of side projects! ≥ 60% of my commits are in private repositories, but feel free to <a href="mailto:natnu212@gmail.com">email me</a> about these projects; I would love to talk to you!</p>
+<p align="left">I'm the programmer and a co-founder of Badavas and a programming director for <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a>. I also have a bunch of side projects! ≥ 60% of my commits are in private repositories, but feel free to <a href="mailto:natnu212@gmail.com">email me</a> about these projects; I would love to talk to you.</p>
 
 ###
 
