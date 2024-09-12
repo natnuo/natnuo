@@ -4,7 +4,7 @@
 
 <p align="left">👋 Hi there! I am Nathan Tao, a sophomore at Scarsdale High School. My goals are to:</p>
 <ul>
-  <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to worlds in 2024-2025 Watergame</li>
+  <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to worlds in 2024-2025 Into the Deep</li>
   <li>⭐ Spread the opportunity to allow all people's talents to grow</li>
 </ul>
 
