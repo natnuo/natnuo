@@ -1,10 +1,18 @@
 <h1 align="center">Full-stack developer who wants to make cool stuff. 😊</h1>
 
+<div align="center">
+  <a href="https://wakatime.com/@018e778f-e6e0-443a-8f7f-3586ce0aa559">
+    <img src="https://wakatime.com/badge/user/018e778f-e6e0-443a-8f7f-3586ce0aa559.svg"></img>
+  </a>
+  <br/>
+  <sup>Active coding time since only March 25, 2024. From <a href="https://wakatime.com/@natnuo">wakatime.com</a>.</sup>
+</div>
+
 ###
 
 <p align="left">👋 Hi there! I am Nathan Tao, a junior at Scarsdale High School. My goals are to:</p>
 <ul>
-  <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to worlds in 2024-2025: *Into the Deep*</li>
+  <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to worlds in 2024-2025: <i>Into the Deep</i></li>
   <li>⭐ Spread the opportunity to allow all people's talents to grow</li>
 </ul>
 
