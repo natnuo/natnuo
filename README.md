@@ -44,6 +44,7 @@
   </a>
 </p>
 <p align="center"><sup>The above diagram (made using <a href="https://wakatime.com">WakaTime</a>) represents the time I spent coding each language in the last seven days, which is not identical to the characters I coded in each language throughout the last seven days.</sup></p>
+<p align="center"><sup>Peak: #10 on WakaTime Global Weekly Leaderboard (with 82 hrs, 44 minutes of coding, done over six days [<i>light flex</i>, I was recoding the entire frontend of <a href="https://badavas.com">badavas.com</a>]).</sup></p>
 <p align="center">
   <a href="https://wakatime.com">
     <picture>
