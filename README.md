@@ -83,6 +83,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
@@ -101,8 +103,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
 </div>
 
@@ -115,8 +115,6 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=electron" height="40" alt="electron logo"  />
@@ -130,6 +128,8 @@
   <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
 </div>
 
 ###
@@ -139,13 +139,12 @@
 ###
 
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo"  />
 <!--   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
-  <img width="12" /> -->
-  <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/scikit-learn-logo.png" height="40" alt="scikit-learn logo"  />
+<!--   <img width="12" /> -->
+<!--   <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/scikit-learn-logo.png" height="40" alt="scikit-learn logo"  /> -->
 <!--   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  /> -->
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
 </div>
 
 ###
