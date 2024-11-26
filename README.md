@@ -12,8 +12,9 @@
 
 <p align="left">👋 Hi there! I am Nathan Tao, a junior at Scarsdale High School. My goals are to:</p>
 <ul>
-  <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to worlds in 2024-2025: <i>Into the Deep</i></li>
-  <li>⭐ Spread the opportunity to allow all people's talents to grow</li>
+  <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to worlds in 2024-2025: <i>Into the Deep</i>,</li>
+  <li>🪴 Expand <a href="https://badavas.com">badavas.com</a> to over a thousand users by the end of this school year, and</li>
+  <li>⭐ Spread the opportunity to allow all people's talents to grow!</li>
 </ul>
 
 ###
