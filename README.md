@@ -86,8 +86,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=markdown" height="40" alt="markdown logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
@@ -103,6 +101,8 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
 </div>
 
 <sub>Note: My knowledge of C++ is associated with competitive programming, not practical project design, which is why I classify C++ as "Experienced" instead of "Fluent".</sub>
