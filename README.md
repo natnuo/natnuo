@@ -10,10 +10,11 @@
 
 ###
 
-<p align="left">👋 Hi there! I am Nathan Tao, a junior at Scarsdale High School. My goals are to:</p>
+<p align="left">👋 Hi there! I am Nathan Tao, a senior at Scarsdale High School. My goals are to:</p>
 <ul>
-  <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to worlds in 2024-2025: <i>Into the Deep</i>,</li>
-  <li>🪴 Expand <a href="https://badavas.com">badavas.com</a> to over a thousand users by the end of this school year, and</li>
+  <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to FTC worlds in 2025-2026: <i>Decode</i>,</li>
+  <li>🪴 Expand <a href="https://badavas.com">badavas.com</a> to over a five hundred users by the end of this school year,</li>
+  <li>📈 Learn cool stuff</li>
   <li>⭐ Spread the opportunity to allow all people's talents to grow!</li>
 </ul>
 
@@ -141,6 +142,14 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazon web services logo"  />
+  <img width="12" />
+  <img height="40" src="https://github.com/user-attachments/assets/ba178885-7dda-463d-a136-67842cedd38a" alt="Q# logo" />
+  <img width="12" />
+  <img height="40" alt="image" src="https://github.com/user-attachments/assets/f66f00ea-7acb-4f44-9488-ee25f94aed6d" alt="Qiskit logo" />
+  <img width="12" />
+  <img height="40" alt="manim logo" src="https://github.com/user-attachments/assets/94cd4fe2-8d71-426b-bdb7-7be55f5fcd23" />
+
+
 <!--   <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="pytorch logo"  />
 <!--   <img width="12" /> -->
 <!--   <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/scikit-learn-logo.png" height="40" alt="scikit-learn logo"  /> -->
