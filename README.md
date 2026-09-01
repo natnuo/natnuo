@@ -10,21 +10,12 @@
 
 ###
 
-<p align="left">👋 Hi there! I am Nathan Tao, a senior at Scarsdale High School. My goals are to:</p>
+<p align="left">👋 Hi there! I am Nathan Tao, a CS major at Cornell Engineering. My goals are to:</p>
 <ul>
-  <li>🏆 Qualify <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to FTC worlds in 2025-2026: <i>Decode</i>,</li>
-  <li>🪴 Expand <a href="https://badavas.com">badavas.com</a> to over a five hundred users by the end of this school year,</li>
+  <li>🏆 Mentor <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a> to FTC worlds in 2026-2027: <i>Biobuzz</i>,</li>
   <li>📈 Learn cool stuff</li>
-  <li>⭐ Spread the opportunity to allow all people's talents to grow!</li>
+  <li>⭐ Create fun projects that I would never have thought I could do!</li>
 </ul>
-
-###
-
-<p align="left">I started my coding journey in 6th grade, publishing Roblox games during COVID, and I haven't stopped since.</p>
-
-###
-
-<p align="left">I help people learn and enjoy coding. I hope build trustworthy robots for fields such as disaster recovery! I'm the programmer and a co-founder of Badavas, 1850+ peak Codeforces, and the captain and president for <a href="https://github.com/Scarsdale-Robotics">Scarsdale Robotics</a>. I also have a bunch of side projects :> ≥ 60% of my commits are in private repositories, but feel free to <a href="mailto:natnu212@gmail.com">email me</a> about these projects; I would love to talk to you.</p>
 
 ###
 
@@ -155,29 +146,6 @@
 <!--   <img src="https://raw.githubusercontent.com/natnuo/natnuo/main/scikit-learn-logo.png" height="40" alt="scikit-learn logo"  /> -->
 <!--   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="tensorflow logo"  /> -->
-</div>
-
-###
-
-<hr />
-  <div align="center">
-  <table>
-    <head><tr><th>🎧 Listening To Right Now (RIGHT NOW!)</tr></th></thead>
-    <tbody>
-      <tr>
-        <td>
-          <a href="https://github.com/natnuo/spotify-data">
-            <picture height="75px">
-              <source media="(prefers-color-scheme: dark)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=dark" height="75px"  />
-              <source media="(prefers-color-scheme: light)" srcset="http://ec2-107-20-43-170.compute-1.amazonaws.com/currently-playing?theme=light" height="75px"  />
-              <img alt="Not currently playing..." src=""  />
-            </picture>
-          </a>
-        </td>
-      </tr>
-    </tbody>
-  </table>
-  <sup>Reload to see if what I am listening to changes!</sup>
 </div>
     
 ###
