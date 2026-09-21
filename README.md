@@ -1,5 +1,9 @@
 <h1 align="center">Full-stack developer who wants to make cool stuff.</h1>
 
+<div align="center"><a href="ntao.dev">Personal Website</a></div>
+
+<br/>
+
 <div align="center">
   <a href="https://wakatime.com/@018e778f-e6e0-443a-8f7f-3586ce0aa559">
     <img src="https://wakatime.com/badge/user/018e778f-e6e0-443a-8f7f-3586ce0aa559.svg"></img>
