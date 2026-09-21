@@ -1,6 +1,6 @@
 <h1 align="center">Full-stack developer who wants to make cool stuff.</h1>
 
-<div align="center"><a href="ntao.dev">Personal Website</a></div>
+<div align="center"><a href="https://ntao.dev">Personal Website</a></div>
 
 <br/>
 
